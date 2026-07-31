@@ -34,20 +34,17 @@ zahls.ch is a Swiss payment platform for shops, websites, and apps. Accept **TWI
 
 We publish integrations and tools that help developers accept Swiss payments.
 
-<table>
-  <tr>
-    <td width="72" align="center">
-      <img src="./assets/zahls-icon.png" width="48" alt="zahls" />
-    </td>
-    <td>
-      <strong><a href="https://github.com/zahls/zahls-plugin-medusa">zahls-plugin-medusa</a></strong><br />
-      Official <a href="https://medusajs.com/">Medusa v2</a> payment provider — hosted checkout, captures, refunds, and webhooks.<br />
-      <code>npm install @zahls/medusa-plugin</code>
-    </td>
-  </tr>
-</table>
+| Platform | Repository | Install |
+| --- | --- | --- |
+| **Medusa** | [zahls-plugin-medusa](https://github.com/zahls/zahls-plugin-medusa) | `npm install @zahls/medusa-plugin` |
+| **Shopware 6** | [zahls-plugin-shopware6](https://github.com/zahls/zahls-plugin-shopware6) | [Latest release](https://github.com/zahls/zahls-plugin-shopware6/releases/latest) |
+| **Magento 2** | [zahls-plugin-magento](https://github.com/zahls/zahls-plugin-magento) | [Latest release](https://github.com/zahls/zahls-plugin-magento/releases/latest) |
+| **PrestaShop** | [zahls-plugin-prestashop](https://github.com/zahls/zahls-plugin-prestashop) | [Latest release](https://github.com/zahls/zahls-plugin-prestashop/releases/latest) |
+| **PHP SDK** | [zahls-php](https://github.com/zahls/zahls-php) | Composer |
 
-More plugins (WooCommerce, Shopify, Shopware, Magento, PrestaShop, and others) live on [zahls.ch → Integrations](https://www.zahls.ch/integrationen).
+WooCommerce lives on WordPress.org: [zahls-ch-payment-gateway](https://de-ch.wordpress.org/plugins/zahls-ch-payment-gateway/).
+
+More integrations on [zahls.ch → Integrations](https://www.zahls.ch/integrationen).
 
 ---
 
