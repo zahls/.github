@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/zahls-logo.svg" alt="zahls.ch" width="220" />
-
-# zahls.ch
-
 **Swiss payments for the web — TWINT, cards & PostFinance.**
 
 [Website](https://www.zahls.ch) · [Developer docs](https://www.zahls.ch/entwickler) · [API reference](https://www.zahls.ch/entwickler/api) · [Sign up](https://signup.zahls.ch)
